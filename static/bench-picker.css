@@ -8,5 +8,5 @@
 .bench-meta{margin-top:3px;font-size:10px;opacity:.75;line-height:1.3}
 .bench-meta em{font-style:normal;opacity:.95}
 .bench-none{font-size:10px;opacity:.5}
-.bench-foot{padding:6px 10px;font-size:10px;opacity:.6;text-align:center;position:sticky;bottom:0;background:var(--bg,inherit)}
+.bench-foot{padding:8px 10px 10px;font-size:10px;opacity:.6;text-align:center;border-top:1px solid rgba(128,128,128,.2);margin-top:6px}
 .bench-foot a{color:inherit;text-decoration:underline}
