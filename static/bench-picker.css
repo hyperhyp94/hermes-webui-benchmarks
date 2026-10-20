@@ -1,0 +1,12 @@
+.bench-line{margin-top:5px;padding-top:4px;border-top:1px dashed rgba(128,128,128,.25)}
+.bench-cells{display:flex;gap:10px;flex-wrap:wrap}
+.bench-cell{display:flex;flex-direction:column;min-width:54px;flex:1 1 54px;max-width:96px}
+.bench-cell i{font-style:normal;font-size:9.5px;opacity:.65;line-height:1.1}
+.bench-cell b{font-size:13px;line-height:1.2;font-variant-numeric:tabular-nums}
+.bench-cell u{display:block;height:3px;border-radius:2px;background:rgba(128,128,128,.22);text-decoration:none;margin-top:1px;overflow:hidden}
+.bench-cell s{display:block;height:100%;border-radius:2px;text-decoration:none}
+.bench-meta{margin-top:3px;font-size:10px;opacity:.75;line-height:1.3}
+.bench-meta em{font-style:normal;opacity:.95}
+.bench-none{font-size:10px;opacity:.5}
+.bench-foot{padding:6px 10px;font-size:10px;opacity:.6;text-align:center;position:sticky;bottom:0;background:var(--bg,inherit)}
+.bench-foot a{color:inherit;text-decoration:underline}
